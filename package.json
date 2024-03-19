@@ -1,0 +1,16 @@
+{
+  "name": "rag-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "@llm-tools/embedjs": "^0.0.66",
+    "nodemon": "^3.1.0",
+    "dotenv": "^16.4.5",
+    "vectordb": "^0.4.11",
+    "apache-arrow": "^15.0.2"
+  }
+}
